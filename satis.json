@@ -12,6 +12,10 @@
     {
       "type": "vcs",
       "url": "git@github.com:mazepress/forms.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mazepress/settings.git"
     }
   ],
   "require-all": false,
