@@ -1,14 +1,6 @@
 # MazePress - Private Packagist
 A self-hosted static Composer repository generator for Private Packagist based on [Satis](https://github.com/composer/satis).
 
-### Available Packages
-The following are the available packages.
-
-| Package | Description |
-| --- | --- |
-| `mazepress/core` | A custom framework library for WordPress plugin and theme development. |
-| `mazepress/forms` | A package library for creating HTML forms |
-
 ## Development
 Clone or fork the repository and install the dependencies by running the following commands.
 
