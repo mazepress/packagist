@@ -7,6 +7,18 @@
     },
     {
       "type": "vcs",
+      "url": "git@github.com:mazepress/plugin.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mazepress/html.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mazepress/post.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:mazepress/core.git"
     },
     {
