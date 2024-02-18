@@ -33,16 +33,17 @@ Read more detailed instructions in the [documentation](https://getcomposer.org/d
 composer.json
 ```YAML
 {
-    "name": "mycompany/mycompany-project",
-    "require": {
-        "mycompany/privaterepo": "^1.0"
-    },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://mazepress.github.io/packagist"
-        }
-    ]
+  "name": "mycompany/mycompany-project",
+  "require": {
+    "mazepress/plugin": "^1.0"
+    "mazepress/html": "dev-main"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://mazepress.github.io/packagist"
+    }
+  ]
 }
 ```
 
