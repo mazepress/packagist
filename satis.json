@@ -23,7 +23,7 @@
     },
     {
       "type": "vcs",
-      "url": "git@github.com:mazepress/forms.git"
+      "url": "git@github.com:mazepress/updater.git"
     },
     {
       "type": "vcs",
