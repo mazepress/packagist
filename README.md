@@ -1,6 +1,8 @@
 # MazePress - Private Packagist
 A self-hosted static Composer repository generator for Private Packagist based on [Satis](https://github.com/composer/satis).
 
+[![Build & Deploy](https://github.com/mazepress/packagist/actions/workflows/buildeploy.yml/badge.svg)](https://github.com/mazepress/packagist/actions/workflows/buildeploy.yml)
+
 ## Development
 Clone or fork the repository and install the dependencies by running the following commands.
 

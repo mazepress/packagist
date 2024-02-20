@@ -28,6 +28,10 @@
     {
       "type": "vcs",
       "url": "git@github.com:mazepress/settings.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mazepress/gateway.git"
     }
   ],
   "require-all": false,

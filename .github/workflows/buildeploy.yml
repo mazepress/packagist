@@ -1,5 +1,5 @@
 # Workflow for deploying static content to GitHub Pages
-name: Build & Deploy Packagist
+name: Build & Deploy
 
 on:
   # Runs on pushes targeting the default branch
