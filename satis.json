@@ -40,6 +40,10 @@
     {
       "type": "vcs",
       "url": "git@github.com:mazepress/gateway-paypal.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mazepress/gateway-authorize.git"
     }
   ],
   "require-all": false,
