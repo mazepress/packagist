@@ -44,6 +44,10 @@
     {
       "type": "vcs",
       "url": "git@github.com:mazepress/gateway-authorize.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:mazepress/gateway-powertranz.git"
     }
   ],
   "require-all": false,
