@@ -11,10 +11,13 @@
     }
   ],
   "require": {
-    "composer/satis": "^1.0"
+    "composer/satis": "dev-main"
   },
   "config": {
-    "sort-packages": true
+    "sort-packages": true,
+    "allow-plugins": {
+      "composer/satis": true
+    }
   },
   "minimum-stability": "stable",
   "scripts": {
