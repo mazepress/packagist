@@ -15,7 +15,7 @@
   },
   "config": {
     "sort-packages": true,
-    "allow-plugins": {
+     "allow-plugins": {
       "composer/satis": true
     }
   },
