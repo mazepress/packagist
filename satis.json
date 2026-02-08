@@ -3,9 +3,6 @@
   "homepage": "https://mazepress.github.io/packagist",
   "repositories": [
     {
-      "packagist.org": false
-    },
-    {
       "type": "vcs",
       "url": "git@github.com:mazepress/plugin.git"
     },
@@ -51,7 +48,5 @@
     }
   ],
   "require-all": false,
-  "require-dependencies": true,
-  "require-dev-dependencies": true,
   "output-dir": "docs"
 }

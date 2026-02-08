@@ -10,17 +10,17 @@
       "email": "musthafasm@gmail.com"
     }
   ],
-  "require": {
-    "composer/satis": "dev-main"
-  },
   "config": {
     "sort-packages": true,
-     "allow-plugins": {
+    "allow-plugins": {
       "composer/satis": true
     }
   },
   "minimum-stability": "stable",
   "scripts": {
-    "build": "satis build --no-interaction"
+    "packagist": "satis build --no-interaction"
+  },
+  "require": {
+    "composer/satis": "dev-main"
   }
 }
